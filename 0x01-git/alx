@@ -1,0 +1,7 @@
+^c
+c
+:wq
+ls
+git commit -m "Startng to code today, so cool"
+git push
+cat > 
