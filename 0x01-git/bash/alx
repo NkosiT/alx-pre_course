@@ -1,14 +1,1 @@
-#!/bin/bash
-echo "ALX"
-^C
-
-^c
-ls
-cat > school
-#!/bin/bash
-echo "School"
-^c
-git add .
-git commit -m “Starting to code today, so cool”
-
-ls
+echo "ALX School"
